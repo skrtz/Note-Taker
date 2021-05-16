@@ -2,7 +2,7 @@
 UPenn Coding Bootcamp: Homework-09
 
 ## Description
-This application allows the user to create, save and delete personal notes. The functioncality of this app is powered by both front-end and back-end technology.
+This application allows the user to create, save and delete personal notes. The functionality of this app is powered by both front-end and back-end technology.
 
 ## Tech
 - HTML/CSS  
